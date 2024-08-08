@@ -26,9 +26,6 @@
     - ComponentWillUnmount: Executar código antes de o componente ser desmontado
 
 
-
-
-
 ## Outras anotações
 ### Framework X Biblioteca
     - Biblioteca 
@@ -54,3 +51,10 @@
     - Extensão para navegaores ou aplicativo que perimite inspecionar a hierarquia de componentes e seus estados
     - Ferramentas de debug
 
+### Babel
+    - Transpilador JavaScript de código aberto e gratuito
+    - Converter código JavaScript em uma versão que o navegador possa executar
+
+### Webpack
+    - Empacotador de módulos para JavaScript
+    - Junta os arquivos JavaScript em um arquivo só de uma forma otimizada e organizada
